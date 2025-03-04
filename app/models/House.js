@@ -1,4 +1,4 @@
-export class Houses {
+export class House {
   constructor(data) {
     this.id = data.id
     this.bedrooms = data.bedrooms
